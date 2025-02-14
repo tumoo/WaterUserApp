@@ -1,0 +1,8 @@
+.checkbox-green .form-check-input:checked {
+    background-color: green;
+    border-color: green;
+}
+
+.checkbox-green .form-check-input:focus {
+    box-shadow: 0 0 0 0.2rem rgba(0, 128, 0, 0.25);
+}
